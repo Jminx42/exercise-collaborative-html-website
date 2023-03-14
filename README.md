@@ -1,3 +1,11 @@
+******************************************************************************************
+Update log #1; 14-03-2023
+First commit to Develop. First-time integration and testing. Needs additioonal tweaks
+to Form and Footer.
+******************************************************************************************
+Collaborative website using Bootstrap 5, replcaiiting basic static portfolio wesite
+By Bem Alexander, Jessica Ferreira and Nuno Rodrigues  
+******************************************************************************************
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.
